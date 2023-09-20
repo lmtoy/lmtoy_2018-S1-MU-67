@@ -1,1 +1,21 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
+91137   strong CO     # pix_list=-0,5
+91141                 # pix_list=-0,5
+91145                 # pix_list=-5
+91149                 # pix_list=-0,5
+91153                 # pix_list=-0
+91262  field offset?  # pix_list=-0,1,5
+91266  field offset?  # pix_list=-0,1,5
+91270  field offset?  # pix_list=-0,1,5
+91542   maybe 0 bad   # pix_list=-0
+91565                 # pix_list=-0
+91567                 # pix_list=-0
+91603   strong CO     # pix_list=-0
+91605                 # pix_list=-0
+91607  all beams ok
+91709                 # pix_list=-0
+92335                 # pix_list=-5
+92341                 # pix_list=-0
+92815                 # pix_list=-0,5
+92817                 # pix_list=-5
+
