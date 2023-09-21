@@ -20,9 +20,9 @@ on['M83_88']  = [ 91141, 91145, 91149, 91153,-91262,
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1['M83_CO']   = ""
-pars1['M83_109']  = ""
-pars1['M83_88']   = ""
+pars1['M83_CO']   = "dv=150 dw=250"
+pars1['M83_109']  = "dv=150 dw=250"
+pars1['M83_88']   = "dv=150 dw=250"
 
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
